@@ -21,7 +21,7 @@ I started my data carrer as a Data Anlyst, using Excel and Power BI. After that,
 <p> 🎯 Looker Studio </p>
 <p> 🎯 Python for Data Analysis (including pandas, numpy, matplotlib and seaborn packages) </p>
 <p> 🎯 Python for web scraping (including BeautifulSoup and Selenium packages) </p>
-<p> 🎯 SQL advanced (including windows functions, CTEs, subqueryes and etc) </p>
+<p> 🎯 Advanced SQL advanced (including windows functions, CTEs, subqueryes and etc) </p>
 <p> 🎯 Google Cloud Environment </p>
 <p> 🎯 Amazon AWS Environment </p>
 <p> 🎯 Statistic for Data Analysis </p>
