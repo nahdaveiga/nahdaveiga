@@ -15,37 +15,37 @@ I started my data carrer as a Data Anlyst, using Excel and Power BI. After that,
 * I love my family
 
 ## Hard skills⚡
-🎯 Advanced Excel
-🎯 Advanced Power BI (including Power Query and DAX language)
-🎯 Metabase
-🎯 Looker Studio
-🎯 Python for Data Analysis (including pandas, numpy, matplotlib and seaborn packages)
-🎯 Python for web scraping (including BeautifulSoup and Selenium packages)
-🎯 SQL advanced (including windows functions, CTEs, subqueryes and etc)
-🎯 Google Cloud Environment
-🎯 Amazon AWS Environment
-🎯 Statistic for Data Analysis
-🎯 Exploratory Data Analysis
+<p> 🎯 Advanced Excel </p>
+<p> 🎯 Advanced Power BI (including Power Query and DAX language) </p>
+<p> 🎯 Metabase </p>
+<p> 🎯 Looker Studio </p>
+<p> 🎯 Python for Data Analysis (including pandas, numpy, matplotlib and seaborn packages) </p>
+<p> 🎯 Python for web scraping (including BeautifulSoup and Selenium packages) </p>
+<p> 🎯 SQL advanced (including windows functions, CTEs, subqueryes and etc) </p>
+<p> 🎯 Google Cloud Environment </p>
+<p> 🎯 Amazon AWS Environment </p>
+<p> 🎯 Statistic for Data Analysis </p>
+<p> 🎯 Exploratory Data Analysis </p>
 
 ## Soft skills 🧠
-🎯 Listening
-🎯 Public speaking
-🎯 Verbal communication
-🎯 Visual communication
-🎯 Adaptability
-🎯 Creativity
-🎯 Critical observation
-🎯 Flexibility
-🎯 Innovation
-🎯 Business storytelling
-🎯 Logical thinking
-🎯 Problem-solving
-🎯 Thinking outside the box
-🎯 Leadership
-🎯 Facilitation
-🎯 Resolving issues
-🎯 Confidence
-🎯 Collaboration
+<p> 🎯 Listening </p>
+<p> 🎯 Public speaking </p>
+<p> 🎯 Verbal communication </p>
+<p> 🎯 Visual communication </p>
+<p> 🎯 Adaptability </p>
+<p> 🎯 Creativity </p>
+<p> 🎯 Critical observation </p>
+<p> 🎯 Flexibility </p>
+<p> 🎯 Innovation </p>
+<p> 🎯 Business storytelling </p>
+<p> 🎯 Logical thinking </p>
+<p> 🎯 Problem-solving </p>
+<p> 🎯 Thinking outside the box </p>
+<p> 🎯 Leadership </p>
+<p> 🎯 Facilitation </p>
+<p> 🎯 Resolving issues </p>
+<p> 🎯 Confidence </p>
+<p> 🎯 Collaboration </p>
 
 <!--
 **nahdaveiga/nahdaveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
