@@ -26,6 +26,7 @@ I started my data carrer as a Data Anlyst, using Excel and Power BI. After that,
 <p> 🎯 Amazon AWS Environment </p>
 <p> 🎯 Statistic for Data Analysis </p>
 <p> 🎯 Exploratory Data Analysis </p>
+<p> 🎯 Figma for design </p>
 
 ## Soft skills 🧠
 <p> 🎯 Listening </p>
